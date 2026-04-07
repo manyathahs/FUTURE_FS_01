@@ -53,3 +53,11 @@ portfolio/
 This portfolio was built as part of my learning journey in Full Stack Web Development.
 
 ---
+## ⚙️ Setup & Installation
+
+To run this project locally:
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/yourusername/repository-name.git
