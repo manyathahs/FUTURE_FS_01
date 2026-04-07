@@ -1,10 +1,10 @@
-# 🌐 Personal Portfolio Website
+#  Personal Portfolio Website
 
 A responsive and modern personal portfolio website showcasing my skills, projects, and contact information.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Responsive design (mobile & desktop)
 - Smooth scrolling navigation
@@ -14,33 +14,7 @@ A responsive and modern personal portfolio website showcasing my skills, project
 
 ---
 
-## 🛠️ Tech Stack
-
-- HTML
-- CSS
-- JavaScript
-- Formspree (for contact form)
-
----
-
-## 📂 Project Structure
-# 🌐 Personal Portfolio Website
-
-A responsive and modern personal portfolio website showcasing my skills, projects, and contact information.
-
----
-
-## 🚀 Features
-
-- Responsive design (mobile & desktop)
-- Smooth scrolling navigation
-- Projects showcase
-- Contact form with email notifications (Formspree)
-- Resume view option
-
----
-
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - HTML
 - CSS
@@ -59,7 +33,7 @@ portfolio/
 
 ---
 
-## 🌍 Live Demo
+##  Live Demo
 
 👉 [View Portfolio](https://github.com/manyathahs/FUTURE_FS_01)
 
