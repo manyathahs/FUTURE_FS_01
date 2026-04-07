@@ -39,7 +39,7 @@ portfolio/
 
 ---
 
-## 📬 Contact
+##  Contact
 
 - Email: manyathahs@gmail.com  
 - GitHub: https://github.com/manyathahs  
@@ -47,7 +47,7 @@ portfolio/
 
 ---
 
-## 📌 Note
+##  Note
 
 This portfolio was built as part of my learning journey in Full Stack Web Development.
 
