@@ -6,11 +6,12 @@ A responsive and modern personal portfolio website showcasing my skills, project
 
 ## Features
 
-- Responsive design (mobile & desktop)
+- Responsive design (works on mobile & desktop)
 - Smooth scrolling navigation
+- Resume view option
 - Projects showcase
 - Contact form with email notifications (Formspree)
-- Resume view option
+- SEO-friendly structure for better visibility on search engines
 
 ---
 
@@ -35,7 +36,7 @@ portfolio/
 
 ##  Live Demo
 
-👉 [View Portfolio](https://github.com/manyathahs/FUTURE_FS_01)
+👉 [View Portfolio](https://manyathahs.github.io/FUTURE_FS_01/)
 
 ---
 
