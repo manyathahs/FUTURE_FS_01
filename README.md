@@ -56,8 +56,8 @@ This portfolio was built as part of my learning journey in Full Stack Web Develo
 ## ⚙️ Setup & Installation
 
 To run this project locally:
+No installation required.
 
-1. Clone the repository
+Simply download the project and open `index.html` in your browser.
 
-```bash
-git clone https://github.com/yourusername/repository-name.git
+Alternatively, you can use Live Server in VS Code.
